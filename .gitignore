@@ -1,0 +1,8 @@
+# Pycharm directory
+.idea
+
+# Pycache directory
+/__pycache__
+
+# Scraper and parser logs
+/log
